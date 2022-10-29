@@ -1,0 +1,631 @@
+app,variable,treatment,value
+Spotify,download,low_v3_download,130.97142
+Spotify,download,low_v3_download,139.441428
+Spotify,download,low_v3_download,151.205328
+Spotify,download,low_v3_download,151.36218
+Spotify,download,low_v3_download,151.519032
+Spotify,download,low_v3_download,151.519032
+Spotify,download,low_v3_download,151.519032
+Spotify,download,low_v3_download,151.519032
+Spotify,download,low_v3_download,151.989588
+Spotify,download,low_v3_download,152.460144
+Spotify,download,low_v3_download,152.773848
+Spotify,download,low_v3_download,153.871812
+Spotify,download,low_v3_download,154.028664
+Spotify,download,low_v3_download,154.185516
+Spotify,download,low_v3_download,154.342368
+Spotify,download,low_v3_download,154.342368
+Spotify,download,low_v3_download,154.49922
+Spotify,download,low_v3_download,154.49922
+Spotify,download,low_v3_download,154.49922
+Spotify,download,low_v3_download,154.656072
+Spotify,download,low_v3_download,154.812924
+Spotify,download,low_v3_download,155.440332
+Spotify,download,low_v3_download,156.06774
+Spotify,download,low_v3_download,156.381444
+Spotify,download,low_v3_download,156.538296
+Spotify,download,low_v3_download,161.55756
+Spotify,download,low_v3_download,185.08536
+Spotify,download,low_v3_download,191.35944
+Spotify,download,low_v3_download,196.065
+Spotify,download,low_v3_download,207.04464
+Spotify,download,normal_v2_download,151.99146
+Spotify,download,normal_v2_download,152.1448896
+Spotify,download,normal_v2_download,152.14608
+Spotify,download,normal_v2_download,152.2024164
+Spotify,download,normal_v2_download,152.2097367
+Spotify,download,normal_v2_download,152.2124885
+Spotify,download,normal_v2_download,152.2124885
+Spotify,download,normal_v2_download,152.45532
+Spotify,download,normal_v2_download,152.60994
+Spotify,download,normal_v2_download,152.91918
+Spotify,download,normal_v2_download,153.3091296
+Spotify,download,normal_v2_download,153.3310819
+Spotify,download,normal_v2_download,153.38304
+Spotify,download,normal_v2_download,153.3930812
+Spotify,download,normal_v2_download,153.3930812
+Spotify,download,normal_v2_download,153.53766
+Spotify,download,normal_v2_download,153.9107989
+Spotify,download,normal_v2_download,154.020918
+Spotify,download,normal_v2_download,154.1336636
+Spotify,download,normal_v2_download,154.1336636
+Spotify,download,normal_v2_download,154.62
+Spotify,download,normal_v2_download,154.62
+Spotify,download,normal_v2_download,154.62
+Spotify,download,normal_v2_download,154.62
+Spotify,download,normal_v2_download,154.7610589
+Spotify,download,normal_v2_download,165.4434
+Spotify,download,normal_v2_download,171.6282
+Spotify,download,normal_v2_download,174.7206
+Spotify,download,normal_v2_download,177.813
+Spotify,download,normal_v2_download,177.813
+Spotify,download,high_v1_download,129.313368
+Spotify,download,high_v1_download,142.182684
+Spotify,download,high_v1_download,151.020648
+Spotify,download,high_v1_download,151.1757
+Spotify,download,high_v1_download,151.330752
+Spotify,download,high_v1_download,152.106012
+Spotify,download,high_v1_download,152.261064
+Spotify,download,high_v1_download,152.261064
+Spotify,download,high_v1_download,152.72622
+Spotify,download,high_v1_download,153.191376
+Spotify,download,high_v1_download,153.50148
+Spotify,download,high_v1_download,153.50148
+Spotify,download,high_v1_download,153.811584
+Spotify,download,high_v1_download,153.966636
+Spotify,download,high_v1_download,154.121688
+Spotify,download,high_v1_download,154.121688
+Spotify,download,high_v1_download,154.586844
+Spotify,download,high_v1_download,154.741896
+Spotify,download,high_v1_download,154.896948
+Spotify,download,high_v1_download,154.896948
+Spotify,download,high_v1_download,155.052
+Spotify,download,high_v1_download,156.60252
+Spotify,download,high_v1_download,156.60252
+Spotify,download,high_v1_download,156.60252
+Spotify,download,high_v1_download,158.15304
+Spotify,download,high_v1_download,158.15304
+Spotify,download,high_v1_download,158.15304
+Spotify,download,high_v1_download,167.45616
+Spotify,download,high_v1_download,189.16344
+Spotify,download,high_v1_download,196.91604
+Spotify,download,veryhigh_v3_download,158.42052
+Spotify,download,veryhigh_v3_download,158.42052
+Spotify,download,veryhigh_v3_download,158.42052
+Spotify,download,veryhigh_v3_download,159.2069073
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,161.55756
+Spotify,download,veryhigh_v3_download,163.12608
+Spotify,download,veryhigh_v3_download,170.96868
+Spotify,download,veryhigh_v3_download,172.5372
+Spotify,download,veryhigh_v3_download,183.51684
+Spotify,download,veryhigh_v3_download,185.08536
+Spotify,download,veryhigh_v1_download,122.21784
+Spotify,download,veryhigh_v1_download,156.6108
+Spotify,download,veryhigh_v1_download,158.1357432
+Spotify,download,veryhigh_v1_download,158.1462
+Spotify,download,veryhigh_v1_download,158.1462
+Spotify,download,veryhigh_v1_download,158.1462
+Spotify,download,veryhigh_v1_download,158.1462
+Spotify,download,veryhigh_v1_download,158.1462
+Spotify,download,veryhigh_v1_download,158.1462
+Spotify,download,veryhigh_v1_download,158.1462
+Spotify,download,veryhigh_v1_download,158.1462
+Spotify,download,veryhigh_v1_download,158.1462
+Spotify,download,veryhigh_v1_download,158.1462
+Spotify,download,veryhigh_v1_download,158.1940806
+Spotify,download,veryhigh_v1_download,158.7370332
+Spotify,download,veryhigh_v1_download,158.7561277
+Spotify,download,veryhigh_v1_download,158.9627136
+Spotify,download,veryhigh_v1_download,159.3131265
+Spotify,download,veryhigh_v1_download,159.6816
+Spotify,download,veryhigh_v1_download,159.6816
+Spotify,download,veryhigh_v1_download,159.6816
+Spotify,download,veryhigh_v1_download,159.6816
+Spotify,download,veryhigh_v1_download,159.6816
+Spotify,download,veryhigh_v1_download,160.2473251
+Spotify,download,veryhigh_v1_download,161.217
+Spotify,download,veryhigh_v1_download,161.217
+Spotify,download,veryhigh_v1_download,161.772824
+Spotify,download,veryhigh_v1_download,162.7524
+Spotify,download,veryhigh_v1_download,164.2878
+Spotify,download,veryhigh_v1_download,196.5312
+Spotify,download,veryhigh_v2_download,157.9842
+Spotify,download,veryhigh_v2_download,157.9842
+Spotify,download,veryhigh_v2_download,157.9842
+Spotify,download,veryhigh_v2_download,157.9842
+Spotify,download,veryhigh_v2_download,157.9842
+Spotify,download,veryhigh_v2_download,157.9842
+Spotify,download,veryhigh_v2_download,157.9842
+Spotify,download,veryhigh_v2_download,157.9842
+Spotify,download,veryhigh_v2_download,158.5337999
+Spotify,download,veryhigh_v2_download,159.5005809
+Spotify,download,veryhigh_v2_download,159.5484
+Spotify,download,veryhigh_v2_download,159.5484
+Spotify,download,veryhigh_v2_download,159.5484
+Spotify,download,veryhigh_v2_download,159.5484
+Spotify,download,veryhigh_v2_download,159.5484
+Spotify,download,veryhigh_v2_download,159.5484
+Spotify,download,veryhigh_v2_download,159.5621847
+Spotify,download,veryhigh_v2_download,159.5621847
+Spotify,download,veryhigh_v2_download,160.1399377
+Spotify,download,veryhigh_v2_download,160.6546413
+Spotify,download,veryhigh_v2_download,161.1126
+Spotify,download,veryhigh_v2_download,161.1126
+Spotify,download,veryhigh_v2_download,161.1126
+Spotify,download,veryhigh_v2_download,161.1719828
+Spotify,download,veryhigh_v2_download,161.5623953
+Spotify,download,veryhigh_v2_download,162.3819814
+Spotify,download,veryhigh_v2_download,162.6768
+Spotify,download,veryhigh_v2_download,162.6768
+Spotify,download,veryhigh_v2_download,162.6768
+Spotify,download,veryhigh_v2_download,162.6768
+Spotify,download,normal_v3_download,120.729924
+Spotify,download,normal_v3_download,137.999484
+Spotify,download,normal_v3_download,154.0556889
+Spotify,download,normal_v3_download,154.327068
+Spotify,download,normal_v3_download,154.327068
+Spotify,download,normal_v3_download,155.269044
+Spotify,download,normal_v3_download,155.269044
+Spotify,download,normal_v3_download,155.269044
+Spotify,download,normal_v3_download,155.269044
+Spotify,download,normal_v3_download,155.42604
+Spotify,download,normal_v3_download,155.42604
+Spotify,download,normal_v3_download,155.4428689
+Spotify,download,normal_v3_download,155.817506
+Spotify,download,normal_v3_download,156.062305
+Spotify,download,normal_v3_download,156.0925895
+Spotify,download,normal_v3_download,156.1694723
+Spotify,download,normal_v3_download,156.1766531
+Spotify,download,normal_v3_download,156.209995
+Spotify,download,normal_v3_download,156.839004
+Spotify,download,normal_v3_download,156.9093102
+Spotify,download,normal_v3_download,156.996
+Spotify,download,normal_v3_download,158.56596
+Spotify,download,normal_v3_download,158.56596
+Spotify,download,normal_v3_download,158.56596
+Spotify,download,normal_v3_download,158.738933
+Spotify,download,normal_v3_download,177.40548
+Spotify,download,normal_v3_download,177.40548
+Spotify,download,normal_v3_download,182.11536
+Spotify,download,normal_v3_download,194.67504
+Spotify,download,normal_v3_download,204.0948
+Spotify,download,low_v1_download,120.04686
+Spotify,download,low_v1_download,131.345388
+Spotify,download,low_v1_download,131.502312
+Spotify,download,low_v1_download,151.902432
+Spotify,download,low_v1_download,151.902432
+Spotify,download,low_v1_download,152.21628
+Spotify,download,low_v1_download,152.373204
+Spotify,download,low_v1_download,152.373204
+Spotify,download,low_v1_download,152.687052
+Spotify,download,low_v1_download,152.687052
+Spotify,download,low_v1_download,152.843976
+Spotify,download,low_v1_download,152.843976
+Spotify,download,low_v1_download,153.0009
+Spotify,download,low_v1_download,153.314748
+Spotify,download,low_v1_download,153.471672
+Spotify,download,low_v1_download,153.628596
+Spotify,download,low_v1_download,153.628596
+Spotify,download,low_v1_download,153.78552
+Spotify,download,low_v1_download,153.942444
+Spotify,download,low_v1_download,154.256292
+Spotify,download,low_v1_download,154.727064
+Spotify,download,low_v1_download,155.040912
+Spotify,download,low_v1_download,155.197836
+Spotify,download,low_v1_download,155.511684
+Spotify,download,low_v1_download,155.668608
+Spotify,download,low_v1_download,156.453228
+Spotify,download,low_v1_download,156.924
+Spotify,download,low_v1_download,161.63172
+Spotify,download,low_v1_download,196.155
+Spotify,download,low_v1_download,199.29348
+Spotify,download,high_v2_download,133.49286
+Spotify,download,high_v2_download,152.697096
+Spotify,download,high_v2_download,153.165492
+Spotify,download,high_v2_download,153.8836203
+Spotify,download,high_v2_download,154.0249886
+Spotify,download,high_v2_download,154.102284
+Spotify,download,high_v2_download,154.258416
+Spotify,download,high_v2_download,154.564019
+Spotify,download,high_v2_download,154.564019
+Spotify,download,high_v2_download,155.0308833
+Spotify,download,high_v2_download,155.2126943
+Spotify,download,high_v2_download,155.35134
+Spotify,download,high_v2_download,155.3864088
+Spotify,download,high_v2_download,155.819736
+Spotify,download,high_v2_download,155.975868
+Spotify,download,high_v2_download,156.132
+Spotify,download,high_v2_download,156.132
+Spotify,download,high_v2_download,156.132
+Spotify,download,high_v2_download,156.132
+Spotify,download,high_v2_download,156.132
+Spotify,download,high_v2_download,156.132
+Spotify,download,high_v2_download,156.1324386
+Spotify,download,high_v2_download,156.138251
+Spotify,download,high_v2_download,156.1396037
+Spotify,download,high_v2_download,156.230433
+Spotify,download,high_v2_download,156.3527125
+Spotify,download,high_v2_download,163.9386
+Spotify,download,high_v2_download,170.18388
+Spotify,download,high_v2_download,171.7452
+Spotify,download,high_v2_download,179.5518
+Spotify,download,low_v2_download,144.243972
+Spotify,download,low_v2_download,148.436208
+Spotify,download,low_v2_download,153.870588
+Spotify,download,low_v2_download,153.870588
+Spotify,download,low_v2_download,153.9183202
+Spotify,download,low_v2_download,154.0120685
+Spotify,download,low_v2_download,154.025856
+Spotify,download,low_v2_download,154.0368106
+Spotify,download,low_v2_download,154.0412462
+Spotify,download,low_v2_download,154.181124
+Spotify,download,low_v2_download,154.336392
+Spotify,download,low_v2_download,154.866767
+Spotify,download,low_v2_download,154.957464
+Spotify,download,low_v2_download,154.957464
+Spotify,download,low_v2_download,154.957464
+Spotify,download,low_v2_download,154.957464
+Spotify,download,low_v2_download,154.957464
+Spotify,download,low_v2_download,155.268
+Spotify,download,low_v2_download,156.702307
+Spotify,download,low_v2_download,157.8297383
+Spotify,download,low_v2_download,158.37336
+Spotify,download,low_v2_download,158.37336
+Spotify,download,low_v2_download,158.37336
+Spotify,download,low_v2_download,158.37336
+Spotify,download,low_v2_download,158.5266064
+Spotify,download,low_v2_download,158.589098
+Spotify,download,low_v2_download,158.9034216
+Spotify,download,low_v2_download,159.92604
+Spotify,download,low_v2_download,161.47872
+Spotify,download,low_v2_download,169.24212
+Spotify,download,normal_v1_download,114.101712
+Spotify,download,normal_v1_download,121.573584
+Spotify,download,normal_v1_download,127.333152
+Spotify,download,normal_v1_download,132.781392
+Spotify,download,normal_v1_download,135.42768
+Spotify,download,normal_v1_download,153.017712
+Spotify,download,normal_v1_download,153.32904
+Spotify,download,normal_v1_download,153.951696
+Spotify,download,normal_v1_download,155.197008
+Spotify,download,normal_v1_download,155.197008
+Spotify,download,normal_v1_download,155.352672
+Spotify,download,normal_v1_download,155.508336
+Spotify,download,normal_v1_download,155.508336
+Spotify,download,normal_v1_download,155.664
+Spotify,download,normal_v1_download,155.664
+Spotify,download,normal_v1_download,155.664
+Spotify,download,normal_v1_download,155.664
+Spotify,download,normal_v1_download,155.664
+Spotify,download,normal_v1_download,157.22064
+Spotify,download,normal_v1_download,157.22064
+Spotify,download,normal_v1_download,157.22064
+Spotify,download,normal_v1_download,157.22064
+Spotify,download,normal_v1_download,157.22064
+Spotify,download,normal_v1_download,157.22064
+Spotify,download,normal_v1_download,158.77728
+Spotify,download,normal_v1_download,160.33392
+Spotify,download,normal_v1_download,161.89056
+Spotify,download,normal_v1_download,188.35344
+Spotify,download,normal_v1_download,188.35344
+Spotify,download,normal_v1_download,191.46672
+Spotify,download,high_v3_download,153.0427435
+Spotify,download,high_v3_download,153.1008558
+Spotify,download,high_v3_download,153.12024
+Spotify,download,high_v3_download,153.12024
+Spotify,download,high_v3_download,153.187112
+Spotify,download,high_v3_download,153.4250738
+Spotify,download,high_v3_download,153.58518
+Spotify,download,high_v3_download,153.58518
+Spotify,download,high_v3_download,153.58518
+Spotify,download,high_v3_download,153.74016
+Spotify,download,high_v3_download,153.9882116
+Spotify,download,high_v3_download,153.9882116
+Spotify,download,high_v3_download,154.0893945
+Spotify,download,high_v3_download,154.5568664
+Spotify,download,high_v3_download,154.6996783
+Spotify,download,high_v3_download,155.7578311
+Spotify,download,high_v3_download,156.1993003
+Spotify,download,high_v3_download,156.4905346
+Spotify,download,high_v3_download,156.5298
+Spotify,download,high_v3_download,156.5298
+Spotify,download,high_v3_download,156.5298
+Spotify,download,high_v3_download,156.5298
+Spotify,download,high_v3_download,156.8603793
+Spotify,download,high_v3_download,164.2788
+Spotify,download,high_v3_download,167.3784
+Spotify,download,high_v3_download,173.5776
+Spotify,download,high_v3_download,176.6772
+Spotify,download,high_v3_download,176.6772
+Spotify,download,high_v3_download,184.4262
+Spotify,download,high_v3_download,189.0756
+YouTube Music,download,high_v3_download,149.479956
+YouTube Music,download,high_v3_download,152.773848
+YouTube Music,download,high_v3_download,194.49648
+YouTube Music,download,high_v3_download,199.20204
+YouTube Music,download,high_v3_download,199.20204
+YouTube Music,download,high_v3_download,199.20204
+YouTube Music,download,high_v3_download,199.20204
+YouTube Music,download,high_v3_download,199.20204
+YouTube Music,download,high_v3_download,199.20204
+YouTube Music,download,high_v3_download,200.77056
+YouTube Music,download,high_v3_download,200.77056
+YouTube Music,download,high_v3_download,200.77056
+YouTube Music,download,high_v3_download,200.77056
+YouTube Music,download,high_v3_download,200.77056
+YouTube Music,download,high_v3_download,200.77056
+YouTube Music,download,high_v3_download,200.77056
+YouTube Music,download,high_v3_download,202.33908
+YouTube Music,download,high_v3_download,202.33908
+YouTube Music,download,high_v3_download,202.33908
+YouTube Music,download,high_v3_download,202.33908
+YouTube Music,download,high_v3_download,202.33908
+YouTube Music,download,high_v3_download,202.33908
+YouTube Music,download,high_v3_download,202.33908
+YouTube Music,download,high_v3_download,202.33908
+YouTube Music,download,high_v3_download,202.33908
+YouTube Music,download,high_v3_download,202.33908
+YouTube Music,download,high_v3_download,202.33908
+YouTube Music,download,high_v3_download,203.9076
+YouTube Music,download,high_v3_download,203.9076
+YouTube Music,download,high_v3_download,203.9076
+YouTube Music,download,normal_v3_download,150.019344
+YouTube Music,download,normal_v3_download,163.20096
+YouTube Music,download,normal_v3_download,182.15712
+YouTube Music,download,normal_v3_download,186.86808
+YouTube Music,download,normal_v3_download,193.14936
+YouTube Music,download,normal_v3_download,194.58576
+YouTube Music,download,normal_v3_download,194.58576
+YouTube Music,download,normal_v3_download,194.58576
+YouTube Music,download,normal_v3_download,194.58576
+YouTube Music,download,normal_v3_download,194.71968
+YouTube Music,download,normal_v3_download,196.155
+YouTube Music,download,normal_v3_download,196.155
+YouTube Music,download,normal_v3_download,196.155
+YouTube Music,download,normal_v3_download,196.29
+YouTube Music,download,normal_v3_download,196.29
+YouTube Music,download,normal_v3_download,196.29
+YouTube Music,download,normal_v3_download,196.29
+YouTube Music,download,normal_v3_download,196.29
+YouTube Music,download,normal_v3_download,197.86032
+YouTube Music,download,normal_v3_download,197.86032
+YouTube Music,download,normal_v3_download,199.29348
+YouTube Music,download,normal_v3_download,199.29348
+YouTube Music,download,normal_v3_download,199.43064
+YouTube Music,download,normal_v3_download,200.86272
+YouTube Music,download,normal_v3_download,200.86272
+YouTube Music,download,normal_v3_download,200.86272
+YouTube Music,download,normal_v3_download,200.86272
+YouTube Music,download,normal_v3_download,201.00096
+YouTube Music,download,normal_v3_download,201.00096
+YouTube Music,download,normal_v3_download,204.0012
+YouTube Music,download,high_v2_download,149.479956
+YouTube Music,download,high_v2_download,152.773848
+YouTube Music,download,high_v2_download,194.49648
+YouTube Music,download,high_v2_download,199.20204
+YouTube Music,download,high_v2_download,199.20204
+YouTube Music,download,high_v2_download,199.20204
+YouTube Music,download,high_v2_download,199.20204
+YouTube Music,download,high_v2_download,199.20204
+YouTube Music,download,high_v2_download,199.20204
+YouTube Music,download,high_v2_download,200.77056
+YouTube Music,download,high_v2_download,200.77056
+YouTube Music,download,high_v2_download,200.77056
+YouTube Music,download,high_v2_download,200.77056
+YouTube Music,download,high_v2_download,200.77056
+YouTube Music,download,high_v2_download,200.77056
+YouTube Music,download,high_v2_download,200.77056
+YouTube Music,download,high_v2_download,202.33908
+YouTube Music,download,high_v2_download,202.33908
+YouTube Music,download,high_v2_download,202.33908
+YouTube Music,download,high_v2_download,202.33908
+YouTube Music,download,high_v2_download,202.33908
+YouTube Music,download,high_v2_download,202.33908
+YouTube Music,download,high_v2_download,202.33908
+YouTube Music,download,high_v2_download,202.33908
+YouTube Music,download,high_v2_download,202.33908
+YouTube Music,download,high_v2_download,202.33908
+YouTube Music,download,high_v2_download,202.33908
+YouTube Music,download,high_v2_download,203.9076
+YouTube Music,download,high_v2_download,203.9076
+YouTube Music,download,high_v2_download,203.9076
+YouTube Music,download,normal_v1_download,150.996384
+YouTube Music,download,normal_v1_download,151.464348
+YouTube Music,download,normal_v1_download,151.620336
+YouTube Music,download,normal_v1_download,194.985
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,196.54488
+YouTube Music,download,normal_v1_download,198.10476
+YouTube Music,download,normal_v1_download,198.10476
+YouTube Music,download,normal_v1_download,198.10476
+YouTube Music,download,normal_v1_download,198.10476
+YouTube Music,download,normal_v1_download,198.10476
+YouTube Music,download,normal_v1_download,198.10476
+YouTube Music,download,normal_v1_download,198.10476
+YouTube Music,download,normal_v1_download,198.10476
+YouTube Music,download,normal_v1_download,198.10476
+YouTube Music,download,normal_v1_download,199.66464
+YouTube Music,download,normal_v1_download,199.66464
+YouTube Music,download,normal_v1_download,199.66464
+YouTube Music,download,low_v3_download,144.6552
+YouTube Music,download,low_v3_download,144.811584
+YouTube Music,download,low_v3_download,144.967968
+YouTube Music,download,low_v3_download,151.536096
+YouTube Music,download,low_v3_download,154.03824
+YouTube Music,download,low_v3_download,181.40544
+YouTube Music,download,low_v3_download,192.35232
+YouTube Music,download,low_v3_download,192.35232
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,193.91616
+YouTube Music,download,low_v3_download,195.48
+YouTube Music,download,low_v3_download,195.48
+YouTube Music,download,low_v3_download,195.48
+YouTube Music,download,low_v3_download,198.60768
+YouTube Music,download,low_v3_download,198.60768
+YouTube Music,download,low_v3_download,198.60768
+YouTube Music,download,low_v3_download,203.2992
+YouTube Music,download,low_v3_download,206.42688
+YouTube Music,download,high_v1_download,153.702864
+YouTube Music,download,high_v1_download,184.82256
+YouTube Music,download,high_v1_download,192.72096
+YouTube Music,download,high_v1_download,197.46
+YouTube Music,download,high_v1_download,197.46
+YouTube Music,download,high_v1_download,197.46
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,199.03968
+YouTube Music,download,high_v1_download,200.61936
+YouTube Music,download,high_v1_download,200.61936
+YouTube Music,download,high_v1_download,200.61936
+YouTube Music,download,high_v1_download,200.61936
+YouTube Music,download,high_v1_download,202.19904
+YouTube Music,download,high_v1_download,205.3584
+YouTube Music,download,high_v1_download,206.93808
+YouTube Music,download,high_v1_download,206.93808
+YouTube Music,download,low_v1_download,147.419244
+YouTube Music,download,low_v1_download,148.518216
+YouTube Music,download,low_v1_download,150.71616
+YouTube Music,download,low_v1_download,152.443116
+YouTube Music,download,low_v1_download,153.0711
+YouTube Music,download,low_v1_download,158.56596
+YouTube Music,download,low_v1_download,163.27584
+YouTube Music,download,low_v1_download,182.11536
+YouTube Music,download,low_v1_download,183.68532
+YouTube Music,download,low_v1_download,185.25528
+YouTube Music,download,low_v1_download,191.53512
+YouTube Music,download,low_v1_download,191.53512
+YouTube Music,download,low_v1_download,194.67504
+YouTube Music,download,low_v1_download,196.245
+YouTube Music,download,low_v1_download,196.245
+YouTube Music,download,low_v1_download,196.245
+YouTube Music,download,low_v1_download,196.245
+YouTube Music,download,low_v1_download,196.245
+YouTube Music,download,low_v1_download,196.245
+YouTube Music,download,low_v1_download,196.245
+YouTube Music,download,low_v1_download,196.245
+YouTube Music,download,low_v1_download,196.245
+YouTube Music,download,low_v1_download,196.245
+YouTube Music,download,low_v1_download,196.245
+YouTube Music,download,low_v1_download,196.245
+YouTube Music,download,low_v1_download,196.245
+YouTube Music,download,low_v1_download,197.81496
+YouTube Music,download,low_v1_download,199.38492
+YouTube Music,download,low_v1_download,200.95488
+YouTube Music,download,low_v1_download,200.95488
+YouTube Music,download,low_v2_download,144.487728
+YouTube Music,download,low_v2_download,145.279008
+YouTube Music,download,low_v2_download,146.861568
+YouTube Music,download,low_v2_download,151.92576
+YouTube Music,download,low_v2_download,153.983088
+YouTube Music,download,low_v2_download,154.2996
+YouTube Music,download,low_v2_download,161.42112
+YouTube Music,download,low_v2_download,194.65488
+YouTube Music,download,low_v2_download,194.65488
+YouTube Music,download,low_v2_download,194.65488
+YouTube Music,download,low_v2_download,194.65488
+YouTube Music,download,low_v2_download,194.65488
+YouTube Music,download,low_v2_download,194.65488
+YouTube Music,download,low_v2_download,194.65488
+YouTube Music,download,low_v2_download,194.65488
+YouTube Music,download,low_v2_download,194.65488
+YouTube Music,download,low_v2_download,194.65488
+YouTube Music,download,low_v2_download,194.65488
+YouTube Music,download,low_v2_download,194.65488
+YouTube Music,download,low_v2_download,194.65488
+YouTube Music,download,low_v2_download,196.23744
+YouTube Music,download,low_v2_download,196.23744
+YouTube Music,download,low_v2_download,196.23744
+YouTube Music,download,low_v2_download,196.23744
+YouTube Music,download,low_v2_download,196.23744
+YouTube Music,download,low_v2_download,197.82
+YouTube Music,download,low_v2_download,199.40256
+YouTube Music,download,low_v2_download,202.56768
+YouTube Music,download,low_v2_download,204.15024
+YouTube Music,download,low_v2_download,205.7328
+YouTube Music,download,normal_v2_download,152.493336
+YouTube Music,download,normal_v2_download,156.564
+YouTube Music,download,normal_v2_download,189.44244
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,194.13936
+YouTube Music,download,normal_v2_download,195.705
+YouTube Music,download,normal_v2_download,195.705
+YouTube Music,download,normal_v2_download,195.705
+YouTube Music,download,normal_v2_download,195.705
+YouTube Music,download,normal_v2_download,198.83628
+YouTube Music,download,normal_v2_download,198.83628
+YouTube Music,download,normal_v2_download,200.40192
+YouTube Music,download,normal_v2_download,200.40192
+YouTube Music,download,normal_v2_download,203.5332
+YouTube Music,download,normal_v2_download,205.09884
+YouTube Music,download,normal_v2_download,220.75524

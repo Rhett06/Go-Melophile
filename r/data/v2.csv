@@ -1,0 +1,421 @@
+app,variable,treatment,value
+Spotify,v2,normal_v2_download,151.99146
+Spotify,v2,normal_v2_download,152.1448896
+Spotify,v2,normal_v2_download,152.14608
+Spotify,v2,normal_v2_download,152.2024164
+Spotify,v2,normal_v2_download,152.2097367
+Spotify,v2,normal_v2_download,152.2124885
+Spotify,v2,normal_v2_download,152.2124885
+Spotify,v2,normal_v2_download,152.45532
+Spotify,v2,normal_v2_download,152.60994
+Spotify,v2,normal_v2_download,152.91918
+Spotify,v2,normal_v2_download,153.3091296
+Spotify,v2,normal_v2_download,153.3310819
+Spotify,v2,normal_v2_download,153.38304
+Spotify,v2,normal_v2_download,153.3930812
+Spotify,v2,normal_v2_download,153.3930812
+Spotify,v2,normal_v2_download,153.53766
+Spotify,v2,normal_v2_download,153.9107989
+Spotify,v2,normal_v2_download,154.020918
+Spotify,v2,normal_v2_download,154.1336636
+Spotify,v2,normal_v2_download,154.1336636
+Spotify,v2,normal_v2_download,154.62
+Spotify,v2,normal_v2_download,154.62
+Spotify,v2,normal_v2_download,154.62
+Spotify,v2,normal_v2_download,154.62
+Spotify,v2,normal_v2_download,154.7610589
+Spotify,v2,normal_v2_download,165.4434
+Spotify,v2,normal_v2_download,171.6282
+Spotify,v2,normal_v2_download,174.7206
+Spotify,v2,normal_v2_download,177.813
+Spotify,v2,normal_v2_download,177.813
+Spotify,v2,low_v2_wifi,152.33616
+Spotify,v2,low_v2_wifi,152.3864544
+Spotify,v2,low_v2_wifi,153.10944
+Spotify,v2,low_v2_wifi,153.2402079
+Spotify,v2,low_v2_wifi,153.5117691
+Spotify,v2,low_v2_wifi,153.728064
+Spotify,v2,low_v2_wifi,154.2128911
+Spotify,v2,low_v2_wifi,154.2341528
+Spotify,v2,low_v2_wifi,154.2526124
+Spotify,v2,low_v2_wifi,154.2681454
+Spotify,v2,low_v2_wifi,154.2734106
+Spotify,v2,low_v2_wifi,154.4580522
+Spotify,v2,low_v2_wifi,154.4932254
+Spotify,v2,low_v2_wifi,154.5295631
+Spotify,v2,low_v2_wifi,154.656
+Spotify,v2,low_v2_wifi,154.7134531
+Spotify,v2,low_v2_wifi,155.360144
+Spotify,v2,low_v2_wifi,156.20256
+Spotify,v2,low_v2_wifi,156.4484754
+Spotify,v2,low_v2_wifi,156.7944882
+Spotify,v2,low_v2_wifi,159.29568
+Spotify,v2,low_v2_wifi,160.84224
+Spotify,v2,low_v2_wifi,163.93536
+Spotify,v2,low_v2_wifi,170.1216
+Spotify,v2,low_v2_wifi,170.1216
+Spotify,v2,low_v2_wifi,173.21472
+Spotify,v2,low_v2_wifi,180.94752
+Spotify,v2,low_v2_wifi,180.94752
+Spotify,v2,low_v2_wifi,180.94752
+Spotify,v2,low_v2_wifi,182.49408
+Spotify,v2,veryhigh_v2_download,157.9842
+Spotify,v2,veryhigh_v2_download,157.9842
+Spotify,v2,veryhigh_v2_download,157.9842
+Spotify,v2,veryhigh_v2_download,157.9842
+Spotify,v2,veryhigh_v2_download,157.9842
+Spotify,v2,veryhigh_v2_download,157.9842
+Spotify,v2,veryhigh_v2_download,157.9842
+Spotify,v2,veryhigh_v2_download,157.9842
+Spotify,v2,veryhigh_v2_download,158.5337999
+Spotify,v2,veryhigh_v2_download,159.5005809
+Spotify,v2,veryhigh_v2_download,159.5484
+Spotify,v2,veryhigh_v2_download,159.5484
+Spotify,v2,veryhigh_v2_download,159.5484
+Spotify,v2,veryhigh_v2_download,159.5484
+Spotify,v2,veryhigh_v2_download,159.5484
+Spotify,v2,veryhigh_v2_download,159.5484
+Spotify,v2,veryhigh_v2_download,159.5621847
+Spotify,v2,veryhigh_v2_download,159.5621847
+Spotify,v2,veryhigh_v2_download,160.1399377
+Spotify,v2,veryhigh_v2_download,160.6546413
+Spotify,v2,veryhigh_v2_download,161.1126
+Spotify,v2,veryhigh_v2_download,161.1126
+Spotify,v2,veryhigh_v2_download,161.1126
+Spotify,v2,veryhigh_v2_download,161.1719828
+Spotify,v2,veryhigh_v2_download,161.5623953
+Spotify,v2,veryhigh_v2_download,162.3819814
+Spotify,v2,veryhigh_v2_download,162.6768
+Spotify,v2,veryhigh_v2_download,162.6768
+Spotify,v2,veryhigh_v2_download,162.6768
+Spotify,v2,veryhigh_v2_download,162.6768
+Spotify,v2,veryhigh_v2_wifi,138.805056
+Spotify,v2,veryhigh_v2_wifi,145.37016
+Spotify,v2,veryhigh_v2_wifi,157.87512
+Spotify,v2,veryhigh_v2_wifi,157.87512
+Spotify,v2,veryhigh_v2_wifi,157.87512
+Spotify,v2,veryhigh_v2_wifi,157.87512
+Spotify,v2,veryhigh_v2_wifi,157.87512
+Spotify,v2,veryhigh_v2_wifi,157.87512
+Spotify,v2,veryhigh_v2_wifi,157.87512
+Spotify,v2,veryhigh_v2_wifi,157.87512
+Spotify,v2,veryhigh_v2_wifi,157.87512
+Spotify,v2,veryhigh_v2_wifi,157.87512
+Spotify,v2,veryhigh_v2_wifi,159.43824
+Spotify,v2,veryhigh_v2_wifi,159.43824
+Spotify,v2,veryhigh_v2_wifi,159.43824
+Spotify,v2,veryhigh_v2_wifi,159.43824
+Spotify,v2,veryhigh_v2_wifi,159.43824
+Spotify,v2,veryhigh_v2_wifi,159.43824
+Spotify,v2,veryhigh_v2_wifi,161.00136
+Spotify,v2,veryhigh_v2_wifi,161.00136
+Spotify,v2,veryhigh_v2_wifi,161.00136
+Spotify,v2,veryhigh_v2_wifi,161.00136
+Spotify,v2,veryhigh_v2_wifi,162.56448
+Spotify,v2,veryhigh_v2_wifi,164.1276
+Spotify,v2,veryhigh_v2_wifi,168.81696
+Spotify,v2,veryhigh_v2_wifi,182.88504
+Spotify,v2,veryhigh_v2_wifi,187.5744
+Spotify,v2,veryhigh_v2_wifi,193.82688
+Spotify,v2,veryhigh_v2_wifi,201.64248
+Spotify,v2,veryhigh_v2_wifi,203.2056
+Spotify,v2,high_v2_wifi,153.4159451
+Spotify,v2,high_v2_wifi,153.6823412
+Spotify,v2,high_v2_wifi,153.92664
+Spotify,v2,high_v2_wifi,154.9259141
+Spotify,v2,high_v2_wifi,155.026116
+Spotify,v2,high_v2_wifi,155.026116
+Spotify,v2,high_v2_wifi,155.099103
+Spotify,v2,high_v2_wifi,155.3233837
+Spotify,v2,high_v2_wifi,155.361973
+Spotify,v2,high_v2_wifi,155.3638094
+Spotify,v2,high_v2_wifi,155.3638094
+Spotify,v2,high_v2_wifi,155.49732
+Spotify,v2,high_v2_wifi,155.6297961
+Spotify,v2,high_v2_wifi,155.8201975
+Spotify,v2,high_v2_wifi,155.968524
+Spotify,v2,high_v2_wifi,157.0156215
+Spotify,v2,high_v2_wifi,157.0156215
+Spotify,v2,high_v2_wifi,157.068
+Spotify,v2,high_v2_wifi,157.068
+Spotify,v2,high_v2_wifi,157.068
+Spotify,v2,high_v2_wifi,157.068
+Spotify,v2,high_v2_wifi,164.9214
+Spotify,v2,high_v2_wifi,169.63344
+Spotify,v2,high_v2_wifi,175.91616
+Spotify,v2,high_v2_wifi,177.48684
+Spotify,v2,high_v2_wifi,179.05752
+Spotify,v2,high_v2_wifi,179.05752
+Spotify,v2,high_v2_wifi,182.19888
+Spotify,v2,high_v2_wifi,188.4816
+Spotify,v2,high_v2_wifi,191.62296
+Spotify,v2,high_v2_download,133.49286
+Spotify,v2,high_v2_download,152.697096
+Spotify,v2,high_v2_download,153.165492
+Spotify,v2,high_v2_download,153.8836203
+Spotify,v2,high_v2_download,154.0249886
+Spotify,v2,high_v2_download,154.102284
+Spotify,v2,high_v2_download,154.258416
+Spotify,v2,high_v2_download,154.564019
+Spotify,v2,high_v2_download,154.564019
+Spotify,v2,high_v2_download,155.0308833
+Spotify,v2,high_v2_download,155.2126943
+Spotify,v2,high_v2_download,155.35134
+Spotify,v2,high_v2_download,155.3864088
+Spotify,v2,high_v2_download,155.819736
+Spotify,v2,high_v2_download,155.975868
+Spotify,v2,high_v2_download,156.132
+Spotify,v2,high_v2_download,156.132
+Spotify,v2,high_v2_download,156.132
+Spotify,v2,high_v2_download,156.132
+Spotify,v2,high_v2_download,156.132
+Spotify,v2,high_v2_download,156.132
+Spotify,v2,high_v2_download,156.1324386
+Spotify,v2,high_v2_download,156.138251
+Spotify,v2,high_v2_download,156.1396037
+Spotify,v2,high_v2_download,156.230433
+Spotify,v2,high_v2_download,156.3527125
+Spotify,v2,high_v2_download,163.9386
+Spotify,v2,high_v2_download,170.18388
+Spotify,v2,high_v2_download,171.7452
+Spotify,v2,high_v2_download,179.5518
+Spotify,v2,normal_v2_wifi,134.071128
+Spotify,v2,normal_v2_wifi,140.986872
+Spotify,v2,normal_v2_wifi,151.989192
+Spotify,v2,normal_v2_wifi,152.303544
+Spotify,v2,normal_v2_wifi,152.775072
+Spotify,v2,normal_v2_wifi,153.403776
+Spotify,v2,normal_v2_wifi,153.875304
+Spotify,v2,normal_v2_wifi,154.03248
+Spotify,v2,normal_v2_wifi,154.346832
+Spotify,v2,normal_v2_wifi,154.661184
+Spotify,v2,normal_v2_wifi,154.661184
+Spotify,v2,normal_v2_wifi,155.132712
+Spotify,v2,normal_v2_wifi,155.132712
+Spotify,v2,normal_v2_wifi,155.132712
+Spotify,v2,normal_v2_wifi,155.132712
+Spotify,v2,normal_v2_wifi,155.132712
+Spotify,v2,normal_v2_wifi,155.289888
+Spotify,v2,normal_v2_wifi,155.447064
+Spotify,v2,normal_v2_wifi,155.447064
+Spotify,v2,normal_v2_wifi,155.447064
+Spotify,v2,normal_v2_wifi,155.761416
+Spotify,v2,normal_v2_wifi,156.232944
+Spotify,v2,normal_v2_wifi,158.74776
+Spotify,v2,normal_v2_wifi,166.60656
+Spotify,v2,normal_v2_wifi,171.32184
+Spotify,v2,normal_v2_wifi,176.03712
+Spotify,v2,normal_v2_wifi,190.18296
+Spotify,v2,normal_v2_wifi,191.75472
+Spotify,v2,normal_v2_wifi,196.47
+Spotify,v2,normal_v2_wifi,201.18528
+Spotify,v2,low_v2_download,144.243972
+Spotify,v2,low_v2_download,148.436208
+Spotify,v2,low_v2_download,153.870588
+Spotify,v2,low_v2_download,153.870588
+Spotify,v2,low_v2_download,153.9183202
+Spotify,v2,low_v2_download,154.0120685
+Spotify,v2,low_v2_download,154.025856
+Spotify,v2,low_v2_download,154.0368106
+Spotify,v2,low_v2_download,154.0412462
+Spotify,v2,low_v2_download,154.181124
+Spotify,v2,low_v2_download,154.336392
+Spotify,v2,low_v2_download,154.866767
+Spotify,v2,low_v2_download,154.957464
+Spotify,v2,low_v2_download,154.957464
+Spotify,v2,low_v2_download,154.957464
+Spotify,v2,low_v2_download,154.957464
+Spotify,v2,low_v2_download,154.957464
+Spotify,v2,low_v2_download,155.268
+Spotify,v2,low_v2_download,156.702307
+Spotify,v2,low_v2_download,157.8297383
+Spotify,v2,low_v2_download,158.37336
+Spotify,v2,low_v2_download,158.37336
+Spotify,v2,low_v2_download,158.37336
+Spotify,v2,low_v2_download,158.37336
+Spotify,v2,low_v2_download,158.5266064
+Spotify,v2,low_v2_download,158.589098
+Spotify,v2,low_v2_download,158.9034216
+Spotify,v2,low_v2_download,159.92604
+Spotify,v2,low_v2_download,161.47872
+Spotify,v2,low_v2_download,169.24212
+YouTube Music,v2,low_v2_wifi,144.692784
+YouTube Music,v2,low_v2_wifi,146.10672
+YouTube Music,v2,low_v2_wifi,153.804816
+YouTube Music,v2,low_v2_wifi,155.847168
+YouTube Music,v2,low_v2_wifi,180.6696
+YouTube Music,v2,low_v2_wifi,186.95376
+YouTube Music,v2,low_v2_wifi,186.95376
+YouTube Music,v2,low_v2_wifi,190.09584
+YouTube Music,v2,low_v2_wifi,193.23792
+YouTube Music,v2,low_v2_wifi,194.80896
+YouTube Music,v2,low_v2_wifi,194.80896
+YouTube Music,v2,low_v2_wifi,194.80896
+YouTube Music,v2,low_v2_wifi,196.38
+YouTube Music,v2,low_v2_wifi,196.38
+YouTube Music,v2,low_v2_wifi,196.38
+YouTube Music,v2,low_v2_wifi,196.38
+YouTube Music,v2,low_v2_wifi,196.38
+YouTube Music,v2,low_v2_wifi,196.38
+YouTube Music,v2,low_v2_wifi,196.38
+YouTube Music,v2,low_v2_wifi,196.38
+YouTube Music,v2,low_v2_wifi,196.38
+YouTube Music,v2,low_v2_wifi,196.38
+YouTube Music,v2,low_v2_wifi,197.95104
+YouTube Music,v2,low_v2_wifi,197.95104
+YouTube Music,v2,low_v2_wifi,197.95104
+YouTube Music,v2,low_v2_wifi,197.95104
+YouTube Music,v2,low_v2_wifi,199.52208
+YouTube Music,v2,low_v2_wifi,199.52208
+YouTube Music,v2,low_v2_wifi,201.09312
+YouTube Music,v2,low_v2_wifi,202.66416
+YouTube Music,v2,high_v2_wifi,152.3691
+YouTube Music,v2,high_v2_wifi,192.21948
+YouTube Music,v2,high_v2_wifi,195.345
+YouTube Music,v2,high_v2_wifi,198.47052
+YouTube Music,v2,high_v2_wifi,198.47052
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,200.03328
+YouTube Music,v2,high_v2_wifi,201.59604
+YouTube Music,v2,high_v2_wifi,201.59604
+YouTube Music,v2,high_v2_wifi,201.59604
+YouTube Music,v2,high_v2_wifi,201.59604
+YouTube Music,v2,high_v2_wifi,201.59604
+YouTube Music,v2,high_v2_wifi,203.1588
+YouTube Music,v2,high_v2_download,149.479956
+YouTube Music,v2,high_v2_download,152.773848
+YouTube Music,v2,high_v2_download,194.49648
+YouTube Music,v2,high_v2_download,199.20204
+YouTube Music,v2,high_v2_download,199.20204
+YouTube Music,v2,high_v2_download,199.20204
+YouTube Music,v2,high_v2_download,199.20204
+YouTube Music,v2,high_v2_download,199.20204
+YouTube Music,v2,high_v2_download,199.20204
+YouTube Music,v2,high_v2_download,200.77056
+YouTube Music,v2,high_v2_download,200.77056
+YouTube Music,v2,high_v2_download,200.77056
+YouTube Music,v2,high_v2_download,200.77056
+YouTube Music,v2,high_v2_download,200.77056
+YouTube Music,v2,high_v2_download,200.77056
+YouTube Music,v2,high_v2_download,200.77056
+YouTube Music,v2,high_v2_download,202.33908
+YouTube Music,v2,high_v2_download,202.33908
+YouTube Music,v2,high_v2_download,202.33908
+YouTube Music,v2,high_v2_download,202.33908
+YouTube Music,v2,high_v2_download,202.33908
+YouTube Music,v2,high_v2_download,202.33908
+YouTube Music,v2,high_v2_download,202.33908
+YouTube Music,v2,high_v2_download,202.33908
+YouTube Music,v2,high_v2_download,202.33908
+YouTube Music,v2,high_v2_download,202.33908
+YouTube Music,v2,high_v2_download,202.33908
+YouTube Music,v2,high_v2_download,203.9076
+YouTube Music,v2,high_v2_download,203.9076
+YouTube Music,v2,high_v2_download,203.9076
+YouTube Music,v2,low_v2_download,144.487728
+YouTube Music,v2,low_v2_download,145.279008
+YouTube Music,v2,low_v2_download,146.861568
+YouTube Music,v2,low_v2_download,151.92576
+YouTube Music,v2,low_v2_download,153.983088
+YouTube Music,v2,low_v2_download,154.2996
+YouTube Music,v2,low_v2_download,161.42112
+YouTube Music,v2,low_v2_download,194.65488
+YouTube Music,v2,low_v2_download,194.65488
+YouTube Music,v2,low_v2_download,194.65488
+YouTube Music,v2,low_v2_download,194.65488
+YouTube Music,v2,low_v2_download,194.65488
+YouTube Music,v2,low_v2_download,194.65488
+YouTube Music,v2,low_v2_download,194.65488
+YouTube Music,v2,low_v2_download,194.65488
+YouTube Music,v2,low_v2_download,194.65488
+YouTube Music,v2,low_v2_download,194.65488
+YouTube Music,v2,low_v2_download,194.65488
+YouTube Music,v2,low_v2_download,194.65488
+YouTube Music,v2,low_v2_download,194.65488
+YouTube Music,v2,low_v2_download,196.23744
+YouTube Music,v2,low_v2_download,196.23744
+YouTube Music,v2,low_v2_download,196.23744
+YouTube Music,v2,low_v2_download,196.23744
+YouTube Music,v2,low_v2_download,196.23744
+YouTube Music,v2,low_v2_download,197.82
+YouTube Music,v2,low_v2_download,199.40256
+YouTube Music,v2,low_v2_download,202.56768
+YouTube Music,v2,low_v2_download,204.15024
+YouTube Music,v2,low_v2_download,205.7328
+YouTube Music,v2,normal_v2_download,152.493336
+YouTube Music,v2,normal_v2_download,156.564
+YouTube Music,v2,normal_v2_download,189.44244
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,194.13936
+YouTube Music,v2,normal_v2_download,195.705
+YouTube Music,v2,normal_v2_download,195.705
+YouTube Music,v2,normal_v2_download,195.705
+YouTube Music,v2,normal_v2_download,195.705
+YouTube Music,v2,normal_v2_download,198.83628
+YouTube Music,v2,normal_v2_download,198.83628
+YouTube Music,v2,normal_v2_download,200.40192
+YouTube Music,v2,normal_v2_download,200.40192
+YouTube Music,v2,normal_v2_download,203.5332
+YouTube Music,v2,normal_v2_download,205.09884
+YouTube Music,v2,normal_v2_download,220.75524
+YouTube Music,v2,normal_v2_wifi,152.040672
+YouTube Music,v2,normal_v2_wifi,185.72256
+YouTube Music,v2,normal_v2_wifi,195.16608
+YouTube Music,v2,normal_v2_wifi,196.74
+YouTube Music,v2,normal_v2_wifi,196.74
+YouTube Music,v2,normal_v2_wifi,196.74
+YouTube Music,v2,normal_v2_wifi,196.74
+YouTube Music,v2,normal_v2_wifi,196.74
+YouTube Music,v2,normal_v2_wifi,196.74
+YouTube Music,v2,normal_v2_wifi,196.74
+YouTube Music,v2,normal_v2_wifi,196.74
+YouTube Music,v2,normal_v2_wifi,196.74
+YouTube Music,v2,normal_v2_wifi,196.74
+YouTube Music,v2,normal_v2_wifi,196.74
+YouTube Music,v2,normal_v2_wifi,196.74
+YouTube Music,v2,normal_v2_wifi,196.74
+YouTube Music,v2,normal_v2_wifi,198.31392
+YouTube Music,v2,normal_v2_wifi,198.31392
+YouTube Music,v2,normal_v2_wifi,198.31392
+YouTube Music,v2,normal_v2_wifi,198.31392
+YouTube Music,v2,normal_v2_wifi,198.31392
+YouTube Music,v2,normal_v2_wifi,198.31392
+YouTube Music,v2,normal_v2_wifi,198.31392
+YouTube Music,v2,normal_v2_wifi,198.31392
+YouTube Music,v2,normal_v2_wifi,199.88784
+YouTube Music,v2,normal_v2_wifi,199.88784
+YouTube Music,v2,normal_v2_wifi,199.88784
+YouTube Music,v2,normal_v2_wifi,199.88784
+YouTube Music,v2,normal_v2_wifi,201.46176
+YouTube Music,v2,normal_v2_wifi,201.46176
