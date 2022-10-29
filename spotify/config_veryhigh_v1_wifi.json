@@ -1,0 +1,45 @@
+{
+  "type": "native",
+  "devices": {
+    "nokia": {}
+  },
+  "repetitions": 1,
+  "duration": 206000,
+  "monkeyrunner_path": "/usr/bin/monkeyrunner",
+  "monkey_playback_path": "/usr/lib/android-sdk/tools/swt/monkeyrunner/scripts/monkey_playback.py",
+  "systrace_path": "/usr/lib/android-sdk/platform-tools/systrace-bk/systrace.py",
+  "powerprofile_path": "/home/pi/power_profile.xml",
+  "paths": [
+    "/home/pi/com.spotify.music.apk"
+  ],
+  "profilers": {
+    "batterystats": {
+      "cleanup": true,
+      "enable_systrace_parsing": false,
+      "python2_path": "/home/pi/.pyenv/versions/systrace/bin/python2.7"
+    }
+  },
+  "scripts": {
+    "before_experiment": "Scripts/before_experiment.py",
+    "before_run": "Scripts/before_run.py",
+    "after_launch": [
+      {
+        "type": "python3",
+        "path": "records/login.py"
+      },{
+        "type": "python3",
+        "path": "records/set_quality_veryhigh.py"
+      },{
+        "type": "python3",
+        "path": "Scripts/set_volume_1.py"
+      },{
+        "type": "python3",
+        "path": "records/play.py"
+      }
+    ],
+    "before_close": "Scripts/before_close.py",
+    "after_run": "Scripts/after_run.py",
+    "after_experiment": "Scripts/after_experiment.py"
+  },
+  "time_between_run": 30000
+}

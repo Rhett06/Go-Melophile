@@ -1,0 +1,8 @@
+TOUCH|{'x':891,'y':2159,'type':'downAndUp',}
+WAIT|{'seconds':1.5,}
+TOUCH|{'x':354,'y':1121,'type':'downAndUp',}
+WAIT|{'seconds':1.5,}
+TOUCH|{'x':219,'y':1340,'type':'downAndUp',}
+WAIT|{'seconds':1.5,}
+TOUCH|{'x':789,'y':887,'type':'downAndUp',}
+WAIT|{'seconds':1.5,}
