@@ -14,7 +14,7 @@ In this research we conduct an empirical experiment to measure the energy consum
 
 Python and monkey-runner scripts for interaction
 
-(i.e., clear app data, login, set quality, set volume, enable or disable wifi , and play the music)
+(i.e., clear app data, login, set audio quality, set sound volume, enable or disable wifi , and play the music)
 
 `r`:
 
@@ -24,7 +24,7 @@ Python and monkey-runner scripts for interaction
 
 - `data`: raw data 
 
-- `Latex`: Latex source of the written report
+- `latex`: Latex source of the written report
 
 # Run the Experiment
 - Data Collection: Put youtube music and spotify apps in the home directory of raspberry pi, then run `sh run.sh` 30 times
