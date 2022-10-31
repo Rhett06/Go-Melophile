@@ -1,0 +1,126 @@
+\section{Experiment Planning}
+
+\subsection{Subjects Selection}
+With the aim of testing use cases as close as possible to real-world scenarios and allowing as many users as possible benefiting from our research, top two most popular Android music streaming applications Spotify and YouTube Music are selected in terms of total download number from the Google Play Store. Their popularity is further verified by the global market share by subscribers. In particular, the total market share of these two apps sums up to roughly 45\% with Spotify having 33\% and YoutTube Music 10\% in 2021 \cite{16}.
+\subsection{Experimental Variables}
+This experiment has three independent variables, one for each sub-questions (RQ1.1 - RQ1.3). It is worth mentioning that all experimental runs use the same song to eliminate the possible impact of music genre on energy consumption.
+
+For RQ1.1, the independent variable is \textbf{the use of Wi-Fi streaming}. We define two treatments for this variable: Wi-Fi streaming is applied and downloaded file playing is applied. After each run of Wi-Fi streaming, cache is cleared to prevent the app from playing the cached song. As for downloaded file playing, Wi-Fi is turned off and the local file is used instead.  
+
+For RQ1.2, the independent variable is \textbf{the use of background play}. Two treatments are identified: running the music app in the foreground and running the music app in the background. The former one means that the user is staying on the app interface with screen on whereas the latter one refers to a locked screen with music on. 
+
+For RQ1.3, the independent variable is \textbf{audio quality}. Since audio quality can be further classified as streaming audio quality and download audio quality with the same options, music played in very high, high, normal and low audio quality is considered. 
+
+All RQs share the same dependent variable \textbf{energy consumption} in Joules that corresponds to the metric in the GQM. It acts as the total amount of energy consumed over the duration of the song. 
+
+\subsection{Experimental Hypotheses}
+To address the RQs, the following null and corresponding alternative hypotheses are formulated. µ represents the average energy consumption of Android devices in each treatment.
+
+For RQ1, the null hypothesis states that the average energy consumption on Android devices does not significantly differ between music streaming applications. Accordingly, the alternative hypothesis states that the average energy consumption of music streaming applications vary significantly. 
+
+$$H_0^{RQ1}: \mu _{spotify} = \mu _{ytbmusic}$$
+
+$$H_a^{RQ1}: \mu _{spotify} \ne \mu _{ytbmusic}$$
+
+For RQ1.1, we test the null hypothesis that the average energy consumption is not significantly different between Wi-Fi streaming and downloaded file playing. Since Wi-Fi streaming requires data transfer over the Internet, it is reasonable to define the one-sided alternative hypothesis that the average energy consumption of Wi-Fi streaming is greater than downloaded file playing. 
+
+
+$$H_0^{RQ1.1}: \mu _{streaming} = \mu _{downloaded}$$
+
+$$H_a^{RQ1.1}: \mu _{streaming} > \mu _{downloaded}$$
+
+For RQ1.2, the null hypothesis is set up in such a way that the average consumed energy does not significantly differ when music players are running either in the foreground or background. Given the increasing uptime caused by foreground activity, one can assume that average consumed energy of music applications is greater when running in the foreground than when running in the background.
+
+$$H_0^{RQ1.2}: \mu _{foreground} = \mu _{background}$$
+
+$$H_a^{RQ1.2}: \mu _{foreground} > \mu _{background}$$
+
+For RQ1.3, the null hypothesis claims that the average energy consumption does not significantly distinguish across all kinds of audio quality. The alternative hypothesis states that the average energy consumption is significantly different for at least one pair of available audio qualities. 
+
+$$H_0^{RQ1.3}: \mu _{veryhigh} = \mu _{high} = \mu _{normal} = \mu _{low}$$
+
+$$H_a^{RQ1.3}: \exists i,j \in {\{veryhigh, high, normal, low\}} \quad \mu _{i} \ne \mu _{j} \wedge i \ne j$$
+
+
+\subsection{Experiment Design}
+The experiment is designed to investigate each RQ in isolation. As all sub-questions derive from RQ1, we first conduct the experiment on RQ1.1-1.3 and then draw the conclusion for RQ1. 
+
+We adopt the randomized complete design to cover all the combinations of subjects (\ie Spotify and YoutTube Music) and treatments. In order to eliminate the possible bias of execution order, each treatment is randomly assigned to subjects. Furthermore, for the purpose of mitigating the possible fluctuations of the energy consumption, each trial of the experiment is run 30 times. Lastly, the same song is played for three minutes, followed by a one-minute cooldown period in each round. 
+
+Table 1-3 document how the treatments are assigned to each subject in the context of RQs. When experimenting with one independent variable, the other two are set as follows to simulate the user behavior in the real world: Users tend to play music using Wi-Fi Streaming in the background with normal audio quality. The total number of trials is 480, resulting in roughly 1920 minutes (\ie 32 hours) running time to answer our RQs. 
+
+\begin{table}[t]
+\centering
+\caption{Trials for experiment in terms of RQ1.1}
+\label{table1}
+\begin{tabular}{|c|c|c|}
+\hline
+\multirow{2}{*}{\textbf{Subject}}  & \multicolumn{2}{c|}{\textbf{Execution Order}}\\
+\cline{2-3}
+
+ & \textbf{\makecell{Wi-Fi \\ Streaming}} & \textbf{\makecell{Downloaded File \\ Playing}} \\
+\hline
+
+Spotify & First & Second \\ 
+\hline
+YouTube Music &Second  &  First  \\
+\hline
+
+\end{tabular}
+\label{table_MAP}
+\end{table}
+
+\begin{table}[t]
+\centering
+\caption{Trials for experiment in terms of RQ1.2}
+\label{table1}
+\begin{tabular}{|c|c|c|}
+\hline
+\multirow{2}{*}{\textbf{Subject}}  & \multicolumn{2}{c|}{\textbf{Execution Order}}\\
+\cline{2-3}
+
+ & \textbf{\makecell{Running in  \\ the Foreground }}  & \textbf{\makecell{Running in \\ the Background }}  \\
+\hline
+
+Spotify & Second & First \\ 
+\hline
+
+YouTube Music & First & Second \\
+\hline
+\end{tabular}
+\label{table_MAP}
+\end{table}
+
+\begin{table}[t]
+\centering
+\caption{Trials for experiment in terms of RQ1.3}
+\label{table1}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\multirow{2}{*}{\textbf{Subject}}  & \multicolumn{4}{c|}{\textbf{Execution Order}}\\
+\cline{2-5}
+
+ & \textbf{Very High}  & \textbf{High} & \textbf{Normal} & \textbf{Low}\\
+\hline
+
+Spotify & Third & First &Fourth & Second \\ 
+\hline
+
+YouTube Music &Second  & Fourth & Third & First  \\
+\hline
+\end{tabular}
+\label{table_MAP}
+\end{table}
+
+\subsection{Data Analysis}
+The data analysis can be divided into four major phases, namely: data exploration, normality checking, hypothesis testing and effect size estimation. 
+
+	\textbf{Data Exploration}: To start with, we aim at gaining a preliminary insight into the overall trend of the dataset. The measured energy consumption is summarized by means of descriptive statistics, followed by the visualization via box plots, histograms and density plots \cite{wohlin2012experimentation}. 
+	
+	\textbf{Normality Checking}: In the normality checking phase the goal is to identify the distribution of the collected data, which further determines whether parametric or nonparametric statistical tests can be conducted. We firstly utilize the density plots over histograms to check if the curve is bell shaped, which indicates the normal distribution. Secondly, Q-Q plots are implemented and the points in the plot should lie approximately on a straight line if the data is normally distributed. Last but not the least, the Shapiro-Wilk test serves as a complement to check for normality. If the test is reported with p-value $\ge$ 0.05, the dataset should be normally distributed. 
+	
+	\textbf{Hypothesis Testing}: For the purpose of solving the null hypotheses regarding our research questions, we apply a series of statistical tests determined by the number of independent variables and data distribution. For RQ1.1 - 1.2, given the fact that they fit a one-factor-two-treatments study design, a two-sample t-test is implemented as the parametric test if the data is normally distributed. If the assumption is not met, Mann-Whitney test functions as the non-parametric test \cite{Fay2010Wilcoxon}.
+	Differently, considering multiple treatments of one variable in RQ1.3, one-way ANOVA test is used to evaluate the hypothesis if the data satisfies the requirement of normal distribution \cite{Hecke2012Power}. Otherwise, Kruskal-Wallis test is executed instead. The null hypothesis is rejected if p-value < 0.05. 
+	
+	\textbf{Effect Size Estimation}: In the final stage, we measure the strength of the difference between two groups via Cohen’s d in case of normality or Cliff’s delta in case of non-normality \cite{macbeth2011cliff}. Generally speaking, the larger the effect size the stronger the relation between a main factor and the dependent variable (\ie energy consumption). In other words, effect size estimation emphasizes the quantitative magnitude of the experimental effect. Cohen \cite{cohen2013statistical} provided general guidelines to interpret the resulting numbers. Specifically, $r<0.10$, $0.10<r<0.30$, $0.30<r<0.50$ and $r>0.50$ fall into four categories: negligible, small, medium, and large. 
+

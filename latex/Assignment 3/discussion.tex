@@ -1,0 +1,21 @@
+\section{Discussion}
+In this section, we answer all research questions on the strength of statistical tests and data analysis. In addition, we derive a list of potential factors in the music streaming application that could drain the battery. 
+
+\textbf{[RQ 1.1]}: \emph{To what extent does the energy consumption differ between music streaming platforms?
+}
+
+The observation for RQ1 is the presence of a statistically significant difference with large effect size between Spotify and YouTube Music. To be specific, Spotify with 17.2\% less energy consumption is considered more energy-efficient than YouTube Music. As a consequence, for users who pay attention to the energy efficency, Spotify is more appealing. However, apart from energy efficiency, it is hard to argue against YouTube Music with regard to free features, audio quality, subscription, and so on. 
+
+\textbf{[RQ 1.1]}: \emph{What is the impact of Wi-Fi streaming on the energy consumption of music applications?
+}
+
+The conclusions for RQ1.1 vary from applications. For Spotify, the null hypothesis can be rejected and we have enough evidence to confirm that connection type makes a difference on the energy consumption. Compared to Wi-Fi streaming, downloading music for offline listening leads to 2\% energy savings, which complements the small effect size. But for YouTube Music, the conclusion is just the opposite. We cannot reject the null hypothesis, and instead it can be claimed that the difference between pre-download listening and Wi-Fi streaming is minor, coupled with negligible effect size. Although Wi-Fi streaming consumes more energy to maintain an active wireless connection, it only stands out with respect to a long period. For example, previous study reports that streaming over a strong Wi-Fi connection for two hours costs a 10\% battery drop, which is twice as much as the local playing \cite{32}. The duration in each run is set to 3 minutes, so the variation of energy consumption may not be obvious enough. However, further investigation must be carried out to verify this assumption. 
+
+\textbf{[RQ 1.2]}: \emph{What is the impact of changing the sound volume on the energy consumption of music applications?}
+
+Similar to the two-faced conclusions for RQ1.1, applying different volume levels in Spotify leads to distinct energy consumption whereas YouTube Music does not show the relationship between sound volume and energy consumption. Nethertheless, the effect size for both applications is small. What’s more, we only observe a significant difference between low and high volume levels in Spotify. We conjecture that consumption does not vary dramatically when ranging from low to medium or medium to high level. This implication is supported by related researches, but quantitative analysis is required to provide evidence on it \cite{33}. 
+
+\textbf{[RQ 1.3]}: \emph{What is the impact of changing the audio quality on the energy consumption of music applications?}
+
+Changing the audio quality by far has the greatest impact on the energy consumption for both applications with great effect size. As presented in our findings, all audio qualities in YouTube have a significantly important influence on energy consumption while only very high quality in Spotify makes a difference. This could be possible due to the fact that music streaming platforms do not comply with the same audio quality classification standards. On the one hand, Spotify offers 24kbps (low), 96kbps (normal), 160kbps (high), and 320kbps (very high) audio quality, respectively \footnote{\label{note1}\href{ https://support.spotify.com/us/article/audio-quality/}{\url{https://support.spotify.com/us/article/audio-quality/}}}. On the other hand, available options in YouTube Music are 48kbps (low), 128kbps (normal), and 256kbps (always high)\footnote{\label{note1}\href{ https://support.google.com/youtubemusic/answer/9076559?hl=en}{\url{https://support.google.com/youtubemusic/answer/9076559?hl=en}}}. In general, the growth of audio quality in YouTube Music is more obvious than the one in Spotify with only one exception (\ie very high quality). There might be a threshold to determine whether the variance of different audio qualities could cause extra overhead to the Android system. Future study is needed to look into the exact cause.  
+

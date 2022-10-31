@@ -1,0 +1,36 @@
+\section{Threats To Validity}\label{sec:threats}
+The analysis of threats to validity is essential to acknowledge potential factors that may skew the collected data, which further determines the accuracy of the measure. It can not only facilitate the generalization of findings in similar settings but mitigate the bias in the outcome. Campbell and Cook \cite{36} proposed four kinds of threats to validity, namely internal validity, external validity, construct validity, and conclusion validity. In this section, we enumerate all threats to validity that should be taken into consideration in the context of quantitative analysis. 
+
+\subsection{Internal Validity}
+Internal validity largely relies on the extent to which alternative explanations can be eliminated. That is to say, it evaluates the rigorousness of the experiment procedure as to draw trustworthy conclusions.  
+
+\textbf{Maturation}: This threat involves the impact of time as a variable. In particular, as time goes by, some external factors may change across trials that influence the final outcomes. It consists of temperature, file caching, and the execution order of treatments. In order to reduce the bias deriving from irrelevant factors on the results, we took numerous precautions such as randomly assigning treatments to subjects, adding a one-minute cooldown period, clearing the cache before each run, etc.  
+
+\textbf{Reliability of Measures}: The energy consumption is solely measured by a software-based plugin Batterystats embedded in the Android ecosystem. Compared to hardware-based power profilers, software-based tools are less precise but easier to use \cite{37}. Essentially, it produces energy estimations rather than direct energy measurements. In fact, this inherent deficiency is not trivial. In the raw dataset, we observed a certain amount of identical records generated within same treatment or across different treatments, which may contribute to the substantial outliers in box plots (cf. Section 6.1). In addition, the reliability can be affected by various factors including the brightness of the mobile screen, push notifications of music streaming applications, the distance to the router, and other applications running in the background. To eliminate the influence caused by aforementioned factors, we turned off all unnecessary applications and notifications, and kept all settings the same during the experiment.   
+
+\subsection{External Validity}
+
+Once the internal validity has been confirmed, we move forward to the external validity, which refers to the extent to which the study results can be applied beyond the sample. 
+
+\textbf{Interaction of Selection and Treatment}: It involves the selection of experimental subjects and the mobile device. Firstly, after leveraging the total downloads from the Google Play Store and global market share by subscribers, we narrowed down to two of the most popular Android music streaming applications Spotify and YouTube Music with caution. Therefore, benefiting from representative subjects we selected, our experiment can be replicated on other subjects, such as Amazon Music and Apple Music. Secondly, the device utilized (\ie Nokia 6.2) is a mainstream Android mobile phone with common hardware specifications. It is reasonable to assume that the experiment is conducted in a real-world scenario. 
+
+\textbf{Interaction of Setting and Treatment}: The playing duration was fixed to 3 minutes in each run to ensure the feasibility of experiment execution and replication at the cost of realism. There is no doubt that users may not listen to music for the exact amount of time in real life. Despite the fact that the validity of duration is out of scope, this particular decision may pose a non-trivial effect on the results, especially the one related to connection type. Besides, it is widely recognized that the Internet condition is correlated to energy consumption \cite{32}. Mobile devices tend to consume more energy when connecting to a weak Wi-Fi signal. In order to mitigate this threat, the whole experiment was run under the same Wi-Fi network with irrelevant devices disconnected. 
+
+\subsection{Construct Validity}
+Construct validity refers to the extent to which the design test measures the intended construct. 
+
+\textbf{Definition of Constructs}: We implemented the GQM framework \cite{wohlin2012experimentation} to document the experiment settings in a systematic manner. We first identified the research goal, and came up with one major research question, which was split into a set of sub-questions, followed by a common metric to answer questions. Next, the GQM-tree was formalized based on GQM components. Furthermore, we formulated null and alternative hypotheses, employed appropriate statistical tests plus effect size estimation methods. 
+
+\textbf{Mono-method Bias}: This threat involving the dependent variable (\ie energy consumption) is complementary to the reliability of measures in the internal validity. As explained before, it is possible that Batterystats may generate less accurate measurements. However, as a widely used open source power profiler in the Android system, it has been validated and accepted by the community \cite{39}.     
+
+\subsection{Conclusion Validity}
+Conclusion validity represents the soundness of the experimental conclusion. 
+
+\textbf{Low Statistical Power}: The cure for this type of threat is to ensure the sample size is large enough to reduce the bias as much as possible. Our study includes 2 music streaming applications with 17 treatments in total (9 treatments for Spotify and 8 treatments for YouTube Music). Each treatment is repeated 30 times with a fixed time period of 4 minutes (three-minutes execution and one-minute cooldown), adding up to 34 hours. The whole dataset constitutes 1,260 data points, which can be considered as high statistical power.
+
+\textbf{Violated Assumptions for Tests}: Before performing statistical tests, we checked the data normality to choose between parametric and nonparametric tests which retain different assumptions. It largely reduces the possibility to draw incorrect conclusions.
+
+\textbf{Reliability of Treatment Implementation}: In order to mitigate this threat, all treatments were designed in such a way that all of them are acknowledged as potential factors that may affect the energy consumption. 
+
+
+
