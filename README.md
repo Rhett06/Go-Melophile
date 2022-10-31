@@ -14,7 +14,7 @@ In this research we conduct an empirical experiment to measure the energy consum
 
 Python and monkey-runner scripts for interaction
 
-(i.e., clear app data, login, set quality, set volume, enable or disable wifi , and play the music)
+(i.e., clear app data, login, set audio quality, set sound volume, enable or disable wifi , and play the music)
 
 `r`:
 
