@@ -24,7 +24,7 @@ Python and monkey-runner scripts for interaction
 
 - `data`: raw data 
 
-- `Latex`: Latex source of the written report
+- `latex`: Latex source of the written report
 
 # Run the Experiment
 - Data Collection: Put youtube music and spotify apps in the home directory of raspberry pi, then run `sh run.sh` 30 times
